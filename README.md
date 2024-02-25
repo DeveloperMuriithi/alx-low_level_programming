@@ -1,1 +1,1 @@
-WSL setup
+Pandora_terminal setup
